@@ -83,7 +83,7 @@ $førHælL = $l - $tåL;
 
     <h2>Fod</h2>
     Hvis der ønskes tofarvede strømper skiftes der nu til hovedfarven.<br>
-    Strik nu det ønskede ribmønster på den ene pind (oversiden af foden) og ret på den anden pind (undersiden af foden) til arb måler $førHælL cm.<br>
+    Strik nu det ønskede ribmønster på den ene pind (oversiden af foden) og ret på den anden pind (undersiden af foden) til arb måler ". round($førHælL) . " cm.<br>
 
     <h2>Forberedelse til hæl</h2>
     Strik ribmønster den første pind ud. Tag så et stykke restgarn af ca samme tykkelse som arbejdsgarnet
