@@ -4,10 +4,10 @@
 
 // input variable
 /** Masker per 10 cm */
-$m = 10.5;
+$m = 20.5;
 
 /** Rækker per 10 cm */
-$r = 10.5;
+$r = 22.5;
 
 /** Skostørrelse */
 $str = 42;
